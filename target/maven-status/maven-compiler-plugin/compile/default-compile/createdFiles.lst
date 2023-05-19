@@ -1,1 +1,14 @@
+org\example\strategy\Vegetarian.class
+org\example\entity\MainDishes.class
+org\example\entity\Meal.class
+org\example\strategy\Spicy.class
+org\example\entity\Appetizer.class
+org\example\factory\AppetizerCreator.class
+org\example\factory\Creator.class
+org\example\entity\Dessert.class
+org\example\strategy\GlutenFree.class
+org\example\strategy\Preference.class
+org\example\factory\DessertCreator.class
+org\example\factory\MainDishesCreator.class
+org\example\singleton\RecipeBook.class
 org\example\App.class
